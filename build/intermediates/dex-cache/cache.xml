@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/txevas/AndroidStudioProjects/EPS/HelloMultiTasking/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b34ed33ced4a0a95f97a0d6e69385ed625e75c4">
+        <dex dex="/Users/txevas/AndroidStudioProjects/EPS/HelloMultiTasking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_04e22a413e2c2ad4c0eadb3dfaddbf5cecf27ada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/txevas/AndroidStudioProjects/EPS/HelloMultiTasking/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e0f5df332c50d967776ca49445bb9ea8a3e552df">
+        <dex dex="/Users/txevas/AndroidStudioProjects/EPS/HelloMultiTasking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_51d2dc7015ba286d9d4ace038d8467feed4bbf6f/classes.dex" />
+    </item>
+
+</items>
